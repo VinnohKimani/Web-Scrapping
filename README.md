@@ -156,4 +156,4 @@ OUTPUT_FILE = "data/aliexpress_games.csv"
 - **Prices** are stored as raw display text (including discount text such as `KSh3,372KSh3,372KSh 638.00saved`) and are not yet parsed into clean numeric values — a possible follow-up step for analysis.
 - AliExpress's markup and anti-bot measures change over time; if the scraper stops finding items, the CSS selectors in `scrape_aliexpress_page()` may need updating.
 - Always check a website's `robots.txt` and Terms of Service, and scrape responsibly (low frequency, small volumes).
-# Web-Scrapping
+

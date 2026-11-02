@@ -33,7 +33,7 @@ web-scraping/
 └── README.md
 ```
 
-## 🛠 How I did it (approach)
+##  How I did it (approach)
 
 ### 1. Chose the right tool: Playwright
 
